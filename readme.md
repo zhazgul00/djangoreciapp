@@ -1,6 +1,6 @@
 1.Clone the repository using the command below :
 code:
-git clone https://github.com/user/name.git
+git clone https://github.com/zhazgul00/djangoreciapp
 
 
 2. Create and install virtual environment :
