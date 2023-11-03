@@ -1,0 +1,31 @@
+/* Стилизация ссылки "Изменить" */
+.edit-link {
+    background-color: #3498db; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    padding: 10px 20px; /* Отступы внутри ссылки */
+    border-radius: 5px; /* Закругленные углы */
+    text-decoration: none; /* Убираем стандартное подчеркивание */
+    font-weight: bold; /* Жирный шрифт */
+    display: inline-block; /* Делаем ссылку блочным элементом для применения отступов */
+    text-align: center; /* Выравниваем текст по центру */
+}
+
+.edit-link:hover {
+    background-color: #2471a3; /* Цвет фона при наведении */
+}
+
+/* Стилизация ссылки "Удалить" */
+.delete-link {
+    background-color: #e74c3c; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    padding: 10px 20px; /* Отступы внутри ссылки */
+    border-radius: 5px; /* Закругленные углы */
+    text-decoration: none; /* Убираем стандартное подчеркивание */
+    font-weight: bold; /* Жирный шрифт */
+    display: inline-block; /* Делаем ссылку блочным элементом для применения отступов */
+    text-align: center; /* Выравниваем текст по центру */
+}
+
+.delete-link:hover {
+    background-color: #c0392b; /* Цвет фона при наведении */
+}
